@@ -16,7 +16,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://youtu.be/vmjuBWazwP4)
 
 ## 💭 Reflexão
-Este projeto interessante, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante e transmitindo informações relevantes utilizadas usando IA como a ChatGPT e a criação de avatares, uma sujestão de melhoria é utilizar uma imagem própria e clonar uma voz real utilizando o ElevenLabs.
+Este projeto foi de grande aprendizado, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante, transmitindo informações relevantes utilizando IA como a ChatGPT e a criação de avatares através do D-ID; uma sujestão de melhoria é utilizar uma imagem própria e clonar uma voz real utilizando o ElevenLabs.
